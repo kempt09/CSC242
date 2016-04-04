@@ -40,11 +40,11 @@ int main() {
     double a, b;
 
     // Input
-    cout << "Select a value" << endl;
+    cout << "Select a value." << endl;
     cin >> value;
-    cout << "Select english unit" << endl;
+    cout << "Select english unit." << endl;
     cin >> englishType;
-    cout << "Select metric unit to convert to" << endl;
+    cout << "Select metric unit to convert to." << endl;
     cin >> metricType;
 
     // Logic
